@@ -27,6 +27,11 @@ module.exports = {
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+
+* Added dependency to `eslint-plugin-import` and recommended `import` rules
+* Replace rule `no-duplicate-imports` with `import/no-duplicates`
+
 ### 1.0.0 (2023-08-31)
 
 * Port from `@crycode/eslint-config`
