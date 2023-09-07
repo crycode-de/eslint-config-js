@@ -27,7 +27,7 @@ module.exports = {
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.1.0 (2023-09-07)
 
 * Added dependency to `eslint-plugin-import` and recommended `import` rules
 * Replace rule `no-duplicate-imports` with `import/no-duplicates`
