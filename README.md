@@ -1,5 +1,9 @@
 # ESLint config
 
+> [!WARNING]
+> This package is deprecated since eslint 9 and no longer maintained.  
+> Please use `configs.js` from `@crycode/eslint-config` instead.
+
 This modules provides an ESLint configuration to be used with **plain JavaScript**
 according to my personal preferences.
 
